@@ -71,8 +71,7 @@ body{
 
 }
 
-.navbar a:hover,
-.navbar a.active{
+.navbar a:hover{
     color: var(--main-color);
     /* border-bottom: 3px solid var(--main-color); */
 }
@@ -623,7 +622,7 @@ span{
 }
 
 /*                                               responsive                                             */
-@media(max-width:1285px){
+/* @media(max-width:1285px){
     html{
         font-size: 55%;
     }
@@ -720,4 +719,4 @@ span{
     }
 
 
-}
+} */
